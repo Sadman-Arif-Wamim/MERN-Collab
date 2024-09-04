@@ -2,7 +2,15 @@ export default function LandingPage() {
   return (
     <>
       <div>
-        <p>Header</p>
+        <p>Body</p>
+      </div>
+
+      <div>
+        <p>Commendation</p>
+      </div>
+
+      <div>
+        <p>Payment</p>
       </div>
     </>
   );
